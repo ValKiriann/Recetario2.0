@@ -2,7 +2,8 @@
 title: Recetario
 email: ann_eav@hotmail.com
 description: The plain text recipe database for hackers
-baseurl: ""
+url: "https://valkiriann.github.io"
+baseurl: "/Recetario2.0"
 language: "es"
 lang_direction: "ltr"
 color: "#007FFF"
