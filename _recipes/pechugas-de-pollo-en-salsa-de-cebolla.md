@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Pechugas de pollo en salsa de cebolla"
-image: pechugas-pollo-cebolla.jpg
+image: pechugas-pollo-cebolla.JPG
 tags: pollo, comidas, thermomix
 
 ingredients:
