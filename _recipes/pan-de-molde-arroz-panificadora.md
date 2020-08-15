@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Pan de molde sin gluten en panificadora - Harina comercial"
+title:  "Pan de molde sin gluten en panificadora - Harina de arroz"
 image: pan-de-molde-panificadora.jpg
 tags: pan, panificadora
 

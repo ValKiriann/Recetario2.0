@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "gofres-coliflor"
+title:  "Gofres de Coliflor"
 image: gofres-coliflor.jpg
 tags: desayuno, sin gluten, sin lácteos, thermomix
 
