@@ -9,6 +9,7 @@ ingredients:
 - 300gr de coliflor
 - 2 huevos
 - 150ml leche vegetal
+- 100gr de harina de arroz
 - 1 cucharadita de sal
 - hierbas provenzales
 - 2 cucharadas de levadura de postres
