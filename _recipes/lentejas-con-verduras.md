@@ -20,7 +20,7 @@ ingredients:
 
 directions:
 - Lava las lentejas bajo el grifo de agua fría. Escurre y ponlas en la olla. (En esta receta no hace falta remojar las lentejas antes, las pongo directamente).
-- Limpia, pela y trocea las verduras en el tamaño que luego quieras encontrártelas, yo lo hago de la siguiente manera: la cebolla en cuatro trozos, la zanahoria en rodajas, las vainas en trocitos medianos, los champis por la mitad, el tomate picado pequeño y el pimiento en cuadrados tirando a grandes.
+- 'Limpia, pela y trocea las verduras en el tamaño que luego quieras encontrártelas, yo lo hago de la siguiente manera: la cebolla en cuatro trozos, la zanahoria en rodajas, las vainas en trocitos medianos, los champis por la mitad, el tomate picado pequeño y el pimiento en cuadrados tirando a grandes.'
 - Pon todas las verduras a la olla de las lentejas, un par de hojas de laurel, un poco de sal y añade agua hasta cubrir. Cierra la olla, ponla al fuego a tope y cuando suban los aros (o la señal que tenga tu olla), baja a fuego medio-bajo y deja que se cocinen 20-25 minutos.
 
 ---
